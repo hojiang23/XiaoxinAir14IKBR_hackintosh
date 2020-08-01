@@ -9,14 +9,17 @@ Opencore说明
 4.睡眠正常
 5.DW1560蓝牙+Wi-Fi正常
 6.Opencore版本：0.5.9
+
 -----------------------------------------------------------------------------------------------------
 注意事项
 1.请自行解锁CFG Lock，设置DVMT 64M，教程链接附在后面
-**若未解锁CFG Lock，请勾选Kernel/Quirks/AppleCpuPmCfgLock及AppleXcpmCfgLock
+**若未解锁CFG Lock，请勾选Kernel/Quirks/AppleCpuPmCfgLock及AppleXcpmCfgLock**
 2.USB已定制，但最好请自行定制
 3.机型设置为Macbook Pro 15.2，请自行添加smbios信息
+
 -----------------------------------------------------------------------------------------------------
 参考内容
+
 1.《Dortania's OpenCore Install Guide》opencore安装指南，最好用
 https://dortania.github.io/OpenCore-Install-Guide/
 
