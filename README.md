@@ -60,6 +60,6 @@ https://github.com/lietxia/XiaoXinAir14IML_2019_hackintosh/wiki/DVMT
 
 http://bbs.pcbeta.com/viewthread-1842644-1-1.html
 
-7.《Intel Coffee Lake平台完美黑苹果系统安装教程（Opencore+Catalina15.4》
+7.《Intel Coffee Lake平台完美黑苹果系统安装教程（Opencore+Catalina15.4）》
 
 https://www.bilibili.com/video/BV1hA411t7dr
